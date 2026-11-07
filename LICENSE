@@ -1,0 +1,16 @@
+Tamagotchi для LilyGO T-Display-S3-Pro
+Copyright (c) 2026 Dron_WiC
+
+SPDX-License-Identifier: CC-BY-4.0
+
+This project is licensed under the Creative Commons Attribution 4.0 International License.
+https://creativecommons.org/licenses/by/4.0/legalcode
+https://creativecommons.org/licenses/by/4.0/deed.ru
+
+You may use, copy, modify, and share this project, including commercially, if you give appropriate credit:
+
+- the name Dron_WiC;
+- a link to the original project;
+- a note when you changed something.
+
+Third-party components keep their own licenses (LVGL, LovyanGFX, SensorLib, the Arduino-ESP32 core). Those terms are not replaced by this file.
